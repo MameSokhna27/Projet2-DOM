@@ -1,0 +1,26 @@
+/*3.Style avec CSS */
+/*Style the container class to center its content horizontally and give it some top margin for spacing.
+*/
+.container {
+align-items: center;
+margin-left: 30%;
+margin-top: 10%;
+display: flex;
+
+}
+/*Style the color-box id with a fixed width and height, and set a default background color.*/
+.bouton{
+    margin-left: 35%;
+    margin-top: 1%; 
+
+   
+ }
+.color{
+    background-color: aqua;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+    font-style: normal;
+    
+
+}
